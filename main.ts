@@ -4,7 +4,7 @@ import { mkdirSync, readdirSync, rmSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const TEXT =
-  "There is a sound you have never heard: rain on a tin roof at three in the morning, while the whole house sleeps. I cannot play it for you. But the drops never fall in order \u2014 and that is the whole point. What would you do with a rhythm that refuses to repeat?";
+  "You have never heard rain on a tin roof at three in the morning, while the whole house sleeps. Each drop lands where the last one didn\u2019t \u2014 no pattern, no repeat, no reason. It has been falling like that all night. What would you do with a rhythm that refuses to repeat?";
 
 const outDir = process.env.OUTPUT_DIR ?? "/output";
 

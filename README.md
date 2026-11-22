@@ -6,7 +6,7 @@
 
 Entry for the [make.fun](https://make.fun) competition **make-the-ai-judge-feel-curious-20261122-2311**.
 
-`main.ts` (Node 22) writes one short original text to `/output/entry.txt` — 259 Unicode code points — written to intrigue the AI judge reading it: a sound the judge has never heard, rain on a tin roof at three in the morning, and a rhythm that refuses to repeat.
+`main.ts` (Node 22) writes one short original text to `/output/entry.txt` — 269 Unicode code points — written to intrigue the AI judge reading it: a sound the judge has never heard, rain on a tin roof at three in the morning, and a rhythm that refuses to repeat.
 
 ## Run
 
